@@ -12,7 +12,7 @@ secrets/
 # Arquivos de configuração do PyCharm/IDEA (opcional, se não quiser versionar)
 .idea/
 
-# Credenciais e arquivos sensíveis
+# Ignorar a pasta inteira de segredos
 Big_Data_GCP/secrets/
 Big_Data_GCP/.env
 
