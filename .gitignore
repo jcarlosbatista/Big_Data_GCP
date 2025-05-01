@@ -1,0 +1,20 @@
+# Ambiente virtual
+venv/
+
+# Credenciais e arquivos sensíveis
+secrets/
+.env
+*.json
+
+# Ambiente virtual
+.venv/
+
+# Arquivos de configuração do PyCharm/IDEA (opcional, se não quiser versionar)
+.idea/
+
+# Credenciais e arquivos sensíveis
+Big_Data_GCP/secrets/
+Big_Data_GCP/.env
+
+# Arquivos JSON
+*.json
