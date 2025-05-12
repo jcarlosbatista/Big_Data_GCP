@@ -15,7 +15,8 @@ secrets/
 # Ignorar a pasta inteira de segredos
 Big_Data_GCP/secrets/
 Big_Data_GCP/.env
-Big_Data_GCP/files
+Big_Data_GCP/00_files/
+Big_Data_GCP/00_trn_cc_bg_gcp/
 
 # Arquivos JSON
 *.json
